@@ -4,7 +4,7 @@
 # import librarys
 library(quanteda)
 library(igraph)
-
+library(Matrix)
 
 # convert string to network 
 
